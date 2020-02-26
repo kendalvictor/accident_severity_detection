@@ -1,0 +1,4 @@
+['remote "myazure"']
+url = azure://car-damage-container/
+[core]
+remote = myazure
